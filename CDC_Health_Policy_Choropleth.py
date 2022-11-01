@@ -103,6 +103,7 @@ cdcdata.drop(['HealthTopic','PolicyTopic','Setting'],axis=1,inplace=True)
 
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div(children=[
     html.H1(children='Health Behavior within the United States',
