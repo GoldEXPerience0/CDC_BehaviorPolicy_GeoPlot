@@ -1,4 +1,16 @@
 # CDC_BehaviorPolicy_GeoPlot
-Health behavior and policy data of the United States visualized 
+**Questions:**
+Which states generally have the best and worst health with nutrition, physical activity, and obesity?
+Which states did better over the years? And which did worse?
+Which states passed the most legislation? And the least?
 
-I merged a CDC dataset on health behaviors and a dataset on health-related legislation to visualize the connection between health and the actions of law via choropleth map.
+**Sources:**
+1. Nutrition, physical activity, and obesity health behaviors: 
+    https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+    (At the time of the project, the data included the years 2011-2020)
+2. Legislation regarding nutrition, physical activity, and obesity:
+    https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/CDC-Nutrition-Physical-Activity-and-Obesity-Legisl/nxst-x9p4
+    (At the time of the project, the data incldued the years 2001-2017)
+    
+Because of the preference of source (1), I joined the data to include all of source (1) but only the years from source (2) that overlapped.
+This made my combined dataset span the years 2011-2020.
