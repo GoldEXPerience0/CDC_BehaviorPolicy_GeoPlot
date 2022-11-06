@@ -24,3 +24,21 @@
     There are years where no data was gathered for particular questions, notibly nutrition which only appeared in the latter years.
 
 **Analysis:**
+    
+    Which states generally have the best and worst health with nutrition, physical activity, and obesity?
+        1. Obesity
+        2. Physical Activity
+        3. Nutrition
+    Which states did better over the years? And which did worse?
+        1. Obesity
+        2. Physical Activity
+        3. Nutrition
+    Which states enacted the most legislation? And the least?
+        1. Obesity
+        2. Physical Activity
+        3. Nutrition
+    For the states that enacted the most legislation, did they have better health outcomes that year or the following year? 
+        1. Obesity
+        2. Physical Activity
+        3. Nutrition
+    The best state with lowest rates of adult obesity is CO around 20% but the rates steadily climb year by year. 
