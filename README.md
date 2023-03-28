@@ -1,5 +1,6 @@
 # CDC BehaviorPolicy GeoPlot
 ## An Interactive Choropleth Map on Health Behaviors and Related Policies in United States
+**Background:**
 
 The Centers for Disease Control and Prevention (CDC) provides behavioral risk factors on nutrition, physical activity, and obesity. In addition, they have state legislation and regulations related to these three categories. These are two separate datasets and are in tabular form. To allow others to engage with the data and expand awareness of these risks, I visualized the relevant values on a map with relative magnitudes shown in color for easier comparison. 
 
@@ -28,3 +29,7 @@ The Centers for Disease Control and Prevention (CDC) provides behavioral risk fa
 5. You will be able to read the percentage of population that meets the topic question as well as the number of enacted policies related to the overall topic.
 
     Note that if there is no data on enacted policies of that state and of that year, it will display as N/A.
+
+**Link to Application:**
+
+https://cdc-health-policy-choropleth.onrender.com/
