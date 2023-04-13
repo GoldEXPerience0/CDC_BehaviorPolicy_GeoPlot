@@ -28,7 +28,7 @@ The Centers for Disease Control and Prevention (CDC) provides behavioral risk fa
 4. If the map shows up, because the data is present, you can hover your cursor over a state.
 5. You will be able to read the percentage of population that meets the topic question as well as the number of enacted policies related to the overall topic.
 
-    Note that if there is no data on enacted policies of that state and of that year, it will display as N/A.
+    Note that if there is no data on enacted policies of that state and of that year, it will display as Missing.
 
 **Link to Application:**
 
