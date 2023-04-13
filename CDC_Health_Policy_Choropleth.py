@@ -9,7 +9,7 @@ import plotly.express as px
 from dash import Dash, html, dcc, Input, Output
 
 #Read cleaned, combined dataframe of behavior and policy
-cdcdata = pd.read_csv('cdcdata.csv')
+cdcdata=pd.read_csv('cdcdata.csv',index_col=0)
 
 #Run the application
 app = Dash(__name__)
